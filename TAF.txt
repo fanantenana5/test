@@ -1,0 +1,8 @@
+liste des clients (x)
+liste des offres (x)
+insertion compteur (x)
+affichage prelevement (x)
+calcul prelevement (x)
+calcul offres prepayer par rapport aux dates (x)
+fonction jirama.Compteur.setDateExpiration(Connection) (x)
+mijery erreur
